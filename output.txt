@@ -1,0 +1,31 @@
+total 4194420
+drwxr-xr-x  24 root root       4096 Oct  3 06:04 .
+drwxr-xr-x  24 root root       4096 Oct  3 06:04 ..
+lrwxrwxrwx   1 root root         14 Aug 25 21:16 AD-home -> /nfsmnt/cshome
+drwxr-xr-x   2 root root       4096 Sep 12 06:02 bin
+drwxr-xr-x   3 root root       4096 Oct  3 06:04 boot
+drwxr-xr-x  17 root root       3800 Oct  9 14:37 dev
+drwxr-xr-x 111 root root       4096 Oct  3 06:03 etc
+drwxr-xr-x   3 root root       4096 Aug 23 06:48 home
+lrwxrwxrwx   1 root root         33 Oct  3 06:04 initrd.img -> boot/initrd.img-4.15.0-65-generic
+lrwxrwxrwx   1 root root         33 Oct  3 06:04 initrd.img.old -> boot/initrd.img-4.15.0-64-generic
+drwxr-xr-x  22 root root       4096 Aug 23 06:56 lib
+drwxr-xr-x   2 root root       4096 Feb 14  2019 lib64
+drwx------   2 root root      16384 Aug 23 06:40 lost+found
+drwxr-xr-x   2 root root       4096 Feb 14  2019 media
+drwxr-xr-x   2 root root       4096 Feb 14  2019 mnt
+drwxr-xr-x  14 root root       4096 Oct  4 12:31 nfsmnt
+drwxr-xr-x   2 root root       4096 Feb 14  2019 opt
+dr-xr-xr-x 412 root root          0 Oct  9 14:36 proc
+drwx------   4 root root       4096 Aug 26 14:34 root
+drwxr-xr-x  30 root root       1060 Oct  9 22:45 run
+drwxr-xr-x   2 root root      12288 Oct  2 06:49 sbin
+drwxr-xr-x   4 root root       4096 Aug 23 06:48 snap
+drwxr-xr-x   2 root root       4096 Feb 14  2019 srv
+-rw-------   1 root root 4294967296 Aug 23 06:41 swap.img
+dr-xr-xr-x  13 root root          0 Oct  9 18:12 sys
+drwxrwxrwt  11 root root      16384 Oct  9 22:46 tmp
+drwxr-xr-x  10 root root       4096 Feb 14  2019 usr
+drwxr-xr-x  13 root root       4096 Feb 14  2019 var
+lrwxrwxrwx   1 root root         30 Oct  3 06:04 vmlinuz -> boot/vmlinuz-4.15.0-65-generic
+lrwxrwxrwx   1 root root         30 Oct  3 06:04 vmlinuz.old -> boot/vmlinuz-4.15.0-64-generic
