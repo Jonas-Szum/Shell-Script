@@ -1,5 +1,4 @@
 # homework-3-Jonas-Szum
-# If you're a Computer Science student looking for code to copy, this is going to get you hit with an academic integrity strike so please copy someone else
 homework-3-Jonas-Szum created by GitHub Classroom
 
 This was a homework assignment for my Systems programming class. We were tasked with writing a simple shell script that allowed for
